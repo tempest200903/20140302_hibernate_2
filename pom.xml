@@ -29,5 +29,13 @@
 			<version>3.2.6.ga</version>
 		</dependency>
 
+		<!-- copy from f:/goat-pc-data/download/irvine/y2014/programming/java/hibernate/4.3.2.Final/hibernate-release-4.3.2.Final/project/documentation/src/main/docbook/quickstart/tutorials/pom.xml -->
+		<!-- The tutorials use the H2 in-memory database -->
+		<dependency>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<version>1.3.175</version>
+		</dependency>
+
 	</dependencies>
 </project>
